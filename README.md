@@ -34,7 +34,20 @@ Python, TensorFlow/Keras, Scikit-learn, Statsmodels,
 pmdarima, Pandas, Matplotlib, Streamlit
 
 ## How to Run
-# Install dependencies pip install -r requirements.txt # Train all models and save .npy outputs python src/train.py # Generate evaluation metrics and plots python src/evaluate.py # Launch Streamlit dashboard streamlit run app.py
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Train all models
+python src/train.py
+
+# Generate metrics and plots
+python src/evaluate.py
+
+# Launch the web interface
+streamlit run app.py
+```
 
 ## Results 
 ![Combined predictions](assets/combined_predictions.png)
