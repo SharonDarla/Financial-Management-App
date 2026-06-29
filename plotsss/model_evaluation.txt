@@ -1,6 +1,0 @@
-AVERAGE METRICS PER MODEL ACROSS ALL COMPANIES
-============================================================
-Model                      MSE      RMSE       MAE        R²
-LSTM                  189.1159   10.3343    8.1521    0.8984
-GRU                    49.8607    5.6275    4.2937    0.9677
-Attention LSTM        625.6468   17.7002   13.9670    0.7147

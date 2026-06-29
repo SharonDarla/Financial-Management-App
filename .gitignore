@@ -1,0 +1,6 @@
+*.npy
+*.csv
+outputs/
+__pycache__/
+*.pyc
+.env
